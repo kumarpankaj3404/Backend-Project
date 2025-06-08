@@ -1,0 +1,26 @@
+{
+  "name": "backend-project",
+  "version": "1.0.0",
+  "description": "A backend application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kumarpankaj3404/Backend-Project.git"
+  },
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "author": "Pankaj Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kumarpankaj3404/Backend-Project/issues"
+  },
+  "homepage": "https://github.com/kumarpankaj3404/Backend-Project#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
